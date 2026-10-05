@@ -1,0 +1,171 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 18.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-10-05 05:39+0000\n"
+"Last-Translator: Ivital <Ivital@users.noreply.github.com>\n"
+"Language-Team: Ukrainian\n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. module: crm_lead_product
+#: model:ir.model.fields,field_description:crm_lead_product.field_crm_product_report__active
+msgid "Active"
+msgstr "Активний"
+
+#. module: crm_lead_product
+#: model:ir.model.fields,field_description:crm_lead_product.field_crm_product_report__campaign_id
+msgid "Campaing"
+msgstr "Кампанія"
+
+#. module: crm_lead_product
+#: model:ir.model.fields,field_description:crm_lead_product.field_crm_product_report__category_id
+msgid "Category"
+msgstr "Категорія"
+
+#. module: crm_lead_product
+#: model:ir.model.fields,field_description:crm_lead_product.field_crm_product_report__date_closed
+#: model_terms:ir.ui.view,arch_db:crm_lead_product.crm_opportunity_report_view_search
+msgid "Closed Date"
+msgstr "Дата закриття"
+
+#. module: crm_lead_product
+#: model:ir.model.fields,field_description:crm_lead_product.field_crm_product_report__company_id
+#: model_terms:ir.ui.view,arch_db:crm_lead_product.crm_opportunity_report_view_search
+msgid "Company"
+msgstr "Компанія"
+
+#. module: crm_lead_product
+#: model:ir.model.fields,field_description:crm_lead_product.field_crm_product_report__partner_name
+msgid "Contact Name"
+msgstr "Ім’я контакту"
+
+#. module: crm_lead_product
+#: model:ir.model.fields,field_description:crm_lead_product.field_crm_product_report__country_id
+#: model_terms:ir.ui.view,arch_db:crm_lead_product.crm_opportunity_report_view_search
+msgid "Country"
+msgstr "Країна"
+
+#. module: crm_lead_product
+#: model:ir.model.fields,field_description:crm_lead_product.field_crm_product_report__create_date
+msgid "Create Date"
+msgstr "Дата створення"
+
+#. module: crm_lead_product
+#: model:ir.model.fields,field_description:crm_lead_product.field_crm_lead_line__create_uid
+msgid "Created by"
+msgstr "Створив"
+
+#. module: crm_lead_product
+#: model:ir.model.fields,field_description:crm_lead_product.field_crm_lead_line__create_date
+msgid "Created on"
+msgstr "Створено"
+
+#. module: crm_lead_product
+#: model:ir.model.fields,field_description:crm_lead_product.field_crm_lead_line__company_currency
+msgid "Currency"
+msgstr "Валюта"
+
+#. module: crm_lead_product
+#: model:ir.model.fields,field_description:crm_lead_product.field_crm_lead_line__name
+msgid "Description"
+msgstr "Опис"
+
+#. module: crm_lead_product
+#: model:ir.model.fields,field_description:crm_lead_product.field_crm_lead_line__display_name
+#: model:ir.model.fields,field_description:crm_lead_product.field_crm_product_report__display_name
+msgid "Display Name"
+msgstr "Відображувана назва"
+
+#. module: crm_lead_product
+#: model:ir.model.fields,field_description:crm_lead_product.field_crm_lead_line__lead_id
+#: model:ir.model.fields.selection,name:crm_lead_product.selection__crm_product_report__type__lead
+#: model_terms:ir.ui.view,arch_db:crm_lead_product.crm_opportunity_report_view_search
+msgid "Lead"
+msgstr "Лід"
+
+#. module: crm_lead_product
+#: model:ir.model.fields,field_description:crm_lead_product.field_crm_lead__lead_line_ids
+msgid "Lead Lines"
+msgstr "Рядки ліда"
+
+#. module: crm_lead_product
+#: model:ir.model.fields,field_description:crm_lead_product.field_crm_product_report__name
+msgid "Lead Name"
+msgstr "Назва ліда"
+
+#. module: crm_lead_product
+#: model:ir.model.fields,field_description:crm_lead_product.field_crm_product_report__lost_reason_id
+#: model_terms:ir.ui.view,arch_db:crm_lead_product.crm_opportunity_report_view_search
+msgid "Lost Reason"
+msgstr "Причина програшу"
+
+#. module: crm_lead_product
+#: model_terms:ir.ui.view,arch_db:crm_lead_product.crm_opportunity_report_view_search
+msgid "Open"
+msgstr "Відкрити"
+
+#. module: crm_lead_product
+#: model:ir.model.fields,field_description:crm_lead_product.field_crm_product_report__date_open
+msgid "Open Date"
+msgstr "Дата відкриття"
+
+#. module: crm_lead_product
+#: model:ir.model.fields.selection,name:crm_lead_product.selection__crm_product_report__type__opportunity
+#: model_terms:ir.ui.view,arch_db:crm_lead_product.crm_opportunity_report_view_search
+msgid "Opportunity"
+msgstr "Можливість"
+
+#. module: crm_lead_product
+#: model:ir.ui.menu,name:crm_lead_product.crm_product_report_menu
+msgid "Pipeline by product"
+msgstr "Воронка за товаром"
+
+#. module: crm_lead_product
+#: model:ir.model.fields,field_description:crm_lead_product.field_crm_lead_line__price_unit
+#: model_terms:ir.ui.view,arch_db:crm_lead_product.view_tree_lead_line
+msgid "Price Unit"
+msgstr "Ціна за одиницю"
+
+#. module: crm_lead_product
+#: model:ir.model.fields,field_description:crm_lead_product.field_crm_product_report__probability
+msgid "Probability"
+msgstr "Ймовірність"
+
+#. module: crm_lead_product
+#: model_terms:ir.ui.view,arch_db:crm_lead_product.crm_lead_view_form
+msgid "Products"
+msgstr "Товари"
+
+#. module: crm_lead_product
+#: model_terms:ir.ui.view,arch_db:crm_lead_product.view_tree_lead_line
+msgid "Quantity"
+msgstr "Кількість"
+
+#. module: crm_lead_product
+#: model:ir.model.fields,field_description:crm_lead_product.field_crm_product_report__team_id
+#: model_terms:ir.ui.view,arch_db:crm_lead_product.crm_opportunity_report_view_search
+msgid "Sales Team"
+msgstr "Команда продажів"
+
+#. module: crm_lead_product
+#: model:ir.model.fields,field_description:crm_lead_product.field_crm_product_report__user_id
+#: model_terms:ir.ui.view,arch_db:crm_lead_product.crm_opportunity_report_view_search
+msgid "Salesperson"
+msgstr "Продавець"
+
+#. module: crm_lead_product
+#: model:ir.model.fields,field_description:crm_lead_product.field_crm_product_report__stage_id
+#: model_terms:ir.ui.view,arch_db:crm_lead_product.crm_opportunity_report_view_search
+msgid "Stage"
+msgstr "Етап"
+
+#. module: crm_lead_product
+#: model:ir.model.fields,field_description:crm_lead_product.field_crm_product_report__type
+msgid "Type"
+msgstr "Тип"

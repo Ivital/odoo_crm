@@ -16,8 +16,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: \n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,help:crm_phonecall_planner.field_crm_phonecall_planner__repeat_calls
@@ -29,7 +28,7 @@ msgstr ""
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,field_description:crm_phonecall_planner.field_crm_phonecall_planner__name
 msgid "Call Summary"
-msgstr ""
+msgstr "Підсумок дзвінка"
 
 #. module: crm_phonecall_planner
 #: model_terms:ir.ui.view,arch_db:crm_phonecall_planner.crm_phonecall_plan_view_form
@@ -44,7 +43,7 @@ msgstr ""
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,field_description:crm_phonecall_planner.field_crm_phonecall_planner__campaign_id
 msgid "Campaign"
-msgstr ""
+msgstr "Кампанія"
 
 #. module: crm_phonecall_planner
 #: model_terms:ir.ui.view,arch_db:crm_phonecall_planner.crm_phonecall_plan_view_form
@@ -69,7 +68,7 @@ msgstr ""
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,field_description:crm_phonecall_planner.field_crm_phonecall_planner__days_gap
 msgid "Days Gap"
-msgstr ""
+msgstr "Розрив у днях"
 
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,field_description:crm_phonecall_planner.field_crm_phonecall_planner__display_name
@@ -79,7 +78,7 @@ msgstr "Назва для відображення"
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,field_description:crm_phonecall_planner.field_crm_phonecall_planner__end
 msgid "End"
-msgstr ""
+msgstr "Кінець"
 
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,help:crm_phonecall_planner.field_crm_phonecall_planner__res_partner_domain
@@ -140,7 +139,7 @@ msgstr ""
 #: model:ir.actions.act_window,name:crm_phonecall_planner.crm_phonecall_planner_open
 #: model:ir.ui.menu,name:crm_phonecall_planner.crm_phonecall_planner_menu
 msgid "Planner"
-msgstr ""
+msgstr "Планувальник"
 
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,field_description:crm_phonecall_planner.field_crm_phonecall_planner__repeat_calls
@@ -155,12 +154,12 @@ msgstr ""
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,field_description:crm_phonecall_planner.field_crm_phonecall_planner__user_id
 msgid "Responsible"
-msgstr ""
+msgstr "Відповідальний"
 
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,field_description:crm_phonecall_planner.field_crm_phonecall_planner__team_id
 msgid "Sales Team"
-msgstr ""
+msgstr "Команда продажів"
 
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,help:crm_phonecall_planner.field_crm_phonecall_planner__start
@@ -189,12 +188,12 @@ msgstr ""
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,field_description:crm_phonecall_planner.field_crm_phonecall_planner__source_id
 msgid "Source"
-msgstr ""
+msgstr "Джерело"
 
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,field_description:crm_phonecall_planner.field_crm_phonecall_planner__start
 msgid "Start"
-msgstr ""
+msgstr "Почати"
 
 #. module: crm_phonecall_planner
 #: code:addons/crm_phonecall_planner/wizards/crm_phonecall_planner.py:0
@@ -210,8 +209,8 @@ msgstr "Мітки"
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,help:crm_phonecall_planner.field_crm_phonecall_planner__campaign_id
 msgid ""
-"This is a name that helps you keep track of your different campaign efforts, "
-"e.g. Fall_Drive, Christmas_Special"
+"This is a name that helps you keep track of your different campaign efforts,"
+" e.g. Fall_Drive, Christmas_Special"
 msgstr ""
 
 #. module: crm_phonecall_planner

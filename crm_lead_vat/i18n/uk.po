@@ -17,3 +17,9 @@ msgstr ""
 #: model:ir.model.fields,field_description:crm_lead_vat.field_crm_lead__partner_vat_update
 msgid "Partner VAT will Update"
 msgstr "ПДВ контрагента буде оновлено"
+
+#. module: crm_lead_vat
+#: model:ir.model.fields,help:crm_lead_vat.field_crm_lead__vat
+msgid ""
+"Tax Identification Number. The first 2 characters are the country code."
+msgstr "Податковий ідентифікаційний номер. Перші 2 символи — код країни."

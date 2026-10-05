@@ -22,3 +22,9 @@ msgstr "Розташування"
 #: model_terms:ir.ui.view,arch_db:crm_location.crm_lead_view_form
 msgid "City completion"
 msgstr "Доповнення міста"
+
+#. module: crm_location
+#: model:ir.model.fields,help:crm_location.field_crm_lead__location_id
+msgid "Use the city name or the zip code to search the location"
+msgstr ""
+"Для пошуку розташування використовуйте назву міста або поштовий індекс"

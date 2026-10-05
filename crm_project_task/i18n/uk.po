@@ -107,3 +107,8 @@ msgid ""
 msgstr ""
 "За замовчуванням цей проєкт буде вибрано для створення завдання з ліда / "
 "нагоди"
+
+#. module: crm_project_task
+#: model:ir.model,name:crm_project_task.model_crm_create_task
+msgid "Wizard to create task"
+msgstr "Майстер створення завдання"

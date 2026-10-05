@@ -51,12 +51,12 @@ msgstr "Типи претензій"
 #: model:ir.model.fields,help:crm_claim_type.field_crm_claim__claim_type
 #: model:ir.model.fields,help:crm_claim_type.field_crm_claim_stage__claim_type
 msgid "Claim classification"
-msgstr ""
+msgstr "Класифікація претензії"
 
 #. module: crm_claim_type
 #: model:ir.model,name:crm_claim_type.model_crm_claim_stage
 msgid "Claim stages"
-msgstr ""
+msgstr "Етапи претензії"
 
 #. module: crm_claim_type
 #: model_terms:ir.ui.view,arch_db:crm_claim_type.crm_claim_type_form
@@ -119,6 +119,8 @@ msgid ""
 "If you check this field, this stage will be proposed by default on each "
 "claim type."
 msgstr ""
+"Якщо позначити це поле, цей етап типово пропонуватиметься для кожного типу "
+"претензії."
 
 #. module: crm_claim_type
 #: model:ir.model.fields,field_description:crm_claim_type.field_crm_claim_type____last_update

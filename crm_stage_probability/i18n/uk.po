@@ -108,3 +108,35 @@ msgstr "Оновити ймовірність лідів"
 #: model_terms:ir.ui.view,arch_db:crm_stage_probability.view_crm_lead_stage_probability_update
 msgid "Update probabilities"
 msgstr "Оновити ймовірності"
+
+#. module: crm_stage_probability
+#: model:ir.model,name:crm_stage_probability.model_crm_lead_stage_probability_update_line
+msgid "CRM leads stages to updates"
+msgstr "Етапи лідів CRM для оновлення"
+
+#. module: crm_stage_probability
+#: model:ir.model,name:crm_stage_probability.model_crm_lead_stage_probability_update
+msgid "Mass update of crm lead probability according to stage"
+msgstr "Масове оновлення ймовірності лідів CRM відповідно до етапу"
+
+#. module: crm_stage_probability
+#: model:ir.model.fields,help:crm_stage_probability.field_crm_stage__on_change
+msgid ""
+"Setting this stage will change the probability automatically on the "
+"opportunity."
+msgstr "Встановлення цього етапу автоматично змінить імовірність для нагоди."
+
+#. module: crm_stage_probability
+#: model:ir.model.constraint,message:crm_stage_probability.constraint_crm_stage_check_probability
+msgid "The probability should be between 0% and 100%!"
+msgstr "Ймовірність має бути від 0% до 100%!"
+
+#. module: crm_stage_probability
+#: model:ir.model.fields,help:crm_stage_probability.field_crm_lead__stage_probability
+#: model:ir.model.fields,help:crm_stage_probability.field_crm_stage__probability
+msgid ""
+"This percentage depicts the default/average probability of the Case for this"
+" stage to be a success"
+msgstr ""
+"Цей відсоток відображає типову/середню ймовірність успішного завершення "
+"справи на цьому етапі"

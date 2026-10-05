@@ -885,3 +885,73 @@ msgstr "Візити, призначені мені"
 #: model:ir.model.fields,help:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__website_message_ids
 msgid "Website communication history"
 msgstr "Історія комунікації через вебсайт"
+
+#. module: crm_salesperson_planner
+#: model:ir.model,name:crm_salesperson_planner.model_crm_salesperson_planner_visit_template
+msgid "Crm Salesperson Planner Visit Template"
+msgstr "Шаблон відвідування планувальника продавця CRM"
+
+#. module: crm_salesperson_planner
+#: model:ir.model,name:crm_salesperson_planner.model_crm_salesperson_planner_visit_close_wiz
+msgid "Get Close Reason"
+msgstr "Отримати причину закриття"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,help:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__rrule_type
+msgid "Let the event automatically repeat at that interval"
+msgstr "Дозволити події автоматично повторюватися з цим інтервалом"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,help:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__alarm_ids
+msgid "Notifications sent to all attendees to remind of the meeting."
+msgstr "Сповіщення, надіслані всім учасникам для нагадування про зустріч."
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,help:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__partner_id
+msgid "Partner-related data of the user"
+msgstr "Дані про користувача, пов'язані з партнером"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,help:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__interval
+msgid "Repeat every (Days/Week/Month/Year)"
+msgstr "Повторювати кожні (дні/тижні/місяці/роки)"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,help:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__count
+msgid "Repeat x times"
+msgstr "Повторити x разів"
+
+#. module: crm_salesperson_planner
+#: model:ir.model,name:crm_salesperson_planner.model_crm_salesperson_planner_visit_close_reason
+msgid "SalesPerson Planner Visit Close Reason"
+msgstr "Причина закриття відвідування планувальника продавця"
+
+#. module: crm_salesperson_planner
+#: model:ir.model,name:crm_salesperson_planner.model_crm_salesperson_planner_visit
+msgid "Salesperson Planner Visit"
+msgstr "Відвідування планувальника продавця"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,help:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__start
+msgid "Start date of an event, without time for full days events"
+msgstr "Дата початку події без часу для подій на весь день"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,help:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__stop
+msgid "Stop date of an event, without time for full days events"
+msgstr "Дата завершення події без часу для подій на повний день"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.constraint,message:crm_salesperson_planner.constraint_crm_salesperson_planner_visit_crm_salesperson_planner_visit_name
+msgid "The visit number must be unique!"
+msgstr "Номер відвідування має бути унікальним!"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.constraint,message:crm_salesperson_planner.constraint_crm_salesperson_planner_visit_template_crm_salesperson_planner_visit_template_name
+msgid "The visit template number must be unique!"
+msgstr "Номер шаблону відвідування має бути унікальним!"
+
+#. module: crm_salesperson_planner
+#: model:ir.model,name:crm_salesperson_planner.model_crm_salesperson_planner_visit_template_create
+msgid "crm salesperson planner visit template create"
+msgstr "створення шаблону відвідування планувальника продавця CRM"

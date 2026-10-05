@@ -24,6 +24,8 @@ msgid ""
 "Allow repeated calls for the same partner, campaign, medium and source "
 "combination?"
 msgstr ""
+"Дозволити повторні дзвінки для тієї самої комбінації партнера, кампанії, "
+"каналу й джерела?"
 
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,field_description:crm_phonecall_planner.field_crm_phonecall_planner__name
@@ -83,7 +85,7 @@ msgstr "Кінець"
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,help:crm_phonecall_planner.field_crm_phonecall_planner__res_partner_domain
 msgid "Filter the parters that will get a scheduled call."
-msgstr ""
+msgstr "Фільтр партнерів, які отримають запланований дзвінок."
 
 #. module: crm_phonecall_planner
 #: model_terms:ir.ui.view,arch_db:crm_phonecall_planner.crm_phonecall_plan_view_form
@@ -113,7 +115,7 @@ msgstr "Останнє оновлення"
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,help:crm_phonecall_planner.field_crm_phonecall_planner__duration
 msgid "Leave this free time between phone calls."
-msgstr ""
+msgstr "Залишати цей вільний час між телефонними дзвінками."
 
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,field_description:crm_phonecall_planner.field_crm_phonecall_planner__medium_id
@@ -128,7 +130,7 @@ msgstr "Фільтр партнерів"
 #. module: crm_phonecall_planner
 #: model:ir.model,name:crm_phonecall_planner.model_crm_phonecall_planner
 msgid "Phonecall planner"
-msgstr ""
+msgstr "Планувальник телефонних дзвінків"
 
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,field_description:crm_phonecall_planner.field_crm_phonecall_planner__planned_calls
@@ -167,6 +169,8 @@ msgid ""
 "Schedule calls from this moment. The time you select will be used as the "
 "plan starting time for each day in the range."
 msgstr ""
+"Планувати дзвінки від цього моменту. Вибраний час використовуватиметься як "
+"час початку плану для кожного дня діапазону."
 
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,help:crm_phonecall_planner.field_crm_phonecall_planner__end
@@ -174,11 +178,13 @@ msgid ""
 "Schedule calls until this moment. The time you select will be used as the "
 "plan ending time for each day in the range."
 msgstr ""
+"Планувати дзвінки до цього моменту. Вибраний час використовуватиметься як "
+"час завершення плану для кожного дня діапазону."
 
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,help:crm_phonecall_planner.field_crm_phonecall_planner__days_gap
 msgid "Schedule one call each X days to the same partner."
-msgstr ""
+msgstr "Планувати один дзвінок кожні X днів тому самому партнеру."
 
 #. module: crm_phonecall_planner
 #: model_terms:ir.ui.view,arch_db:crm_phonecall_planner.crm_phonecall_plan_view_form

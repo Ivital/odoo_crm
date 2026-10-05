@@ -41,7 +41,7 @@ msgstr "Дата створення"
 #. module: crm_phonecall_summary_predefined
 #: model:ir.model,name:crm_phonecall_summary_predefined.model_crm_phonecall_summary
 msgid "Crm Phonecall Summary"
-msgstr ""
+msgstr "Підсумок телефонних дзвінків CRM"
 
 #. module: crm_phonecall_summary_predefined
 #: model:ir.model.fields,field_description:crm_phonecall_summary_predefined.field_crm_phonecall_summary__display_name
@@ -81,7 +81,7 @@ msgstr "Телефонний дзвінок"
 #. module: crm_phonecall_summary_predefined
 #: model:ir.model,name:crm_phonecall_summary_predefined.model_crm_phonecall2phonecall
 msgid "Phonecall To Phonecall"
-msgstr ""
+msgstr "Телефонний дзвінок у телефонний дзвінок"
 
 #. module: crm_phonecall_summary_predefined
 #: model:ir.model.fields,field_description:crm_phonecall_summary_predefined.field_crm_phonecall_summary__phonecall_ids
@@ -91,7 +91,7 @@ msgstr "Телефонні дзвінки"
 #. module: crm_phonecall_summary_predefined
 #: model:ir.model.fields,help:crm_phonecall_summary_predefined.field_crm_phonecall_summary__phonecall_ids
 msgid "Phonecalls with this summary."
-msgstr ""
+msgstr "Телефонні дзвінки з цим підсумком."
 
 #. module: crm_phonecall_summary_predefined
 #: model:ir.actions.act_window,name:crm_phonecall_summary_predefined.crm_phonecall_summary_action

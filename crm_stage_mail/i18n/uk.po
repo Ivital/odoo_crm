@@ -17,3 +17,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:crm_stage_mail.field_crm_stage__mail_template_id
 msgid "Email Template"
 msgstr "Шаблон електронного листа"
+
+#. module: crm_stage_mail
+#: model:ir.model.fields,help:crm_stage_mail.field_crm_stage__mail_template_id
+msgid ""
+"If set, an email will be automatically sent to the partner when the lead "
+"reaches this stage."
+msgstr ""
+"Якщо задано, партнеру автоматично буде надіслано лист, коли лід досягне "
+"цього етапу."

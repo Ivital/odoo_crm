@@ -80,3 +80,8 @@ msgstr "Причина виграшу"
 #: model_terms:ir.ui.view,arch_db:crm_won_reason.crm_lead_view_form
 msgid "Won"
 msgstr "Виграно"
+
+#. module: crm_won_reason
+#: model:ir.model,name:crm_won_reason.model_crm_lead_won
+msgid "Get Won Reason"
+msgstr "Отримати причину виграшу"

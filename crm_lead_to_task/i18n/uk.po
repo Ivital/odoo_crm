@@ -154,7 +154,7 @@ msgstr ""
 #: code:addons/crm_lead_to_task/models/project_task.py:0
 #: code:addons/crm_lead_to_task/tests/test_crm_lead_task.py:0
 msgid "Lead: %s"
-msgstr ""
+msgstr "Лід: %s"
 
 #. module: crm_lead_to_task
 #: model:ir.model.fields,field_description:crm_lead_to_task.field_crm_lead_convert2task__project_id

@@ -69,3 +69,8 @@ msgstr "Опис проєкту"
 #: model_terms:ir.ui.view,arch_db:crm_project_create.crm_create_project_view_form
 msgid "You won't be able to edit this project after creating it"
 msgstr "Після створення цього проєкту його не можна буде редагувати"
+
+#. module: crm_project_create
+#: model:ir.model,name:crm_project_create.model_crm_create_project
+msgid "Wizart to create Project from Lead/Opportunity"
+msgstr "Майстер створення проєкту з ліда/нагоди"

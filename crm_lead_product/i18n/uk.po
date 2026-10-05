@@ -323,3 +323,18 @@ msgstr "Пропорційний дохід"
 #: model_terms:ir.ui.view,arch_db:crm_lead_product.crm_opportunity_report_view_search
 msgid "Show only opportunity"
 msgstr "Показувати лише нагоду"
+
+#. module: crm_lead_product
+#: model:ir.model,name:crm_lead_product.model_crm_product_report
+msgid "CRM Pipeline by Product Analysis"
+msgstr "Аналіз CRM-воронки за товаром"
+
+#. module: crm_lead_product
+#: model:ir.model,name:crm_lead_product.model_crm_lead_line
+msgid "Line in CRM Lead"
+msgstr "Рядок у ліді CRM"
+
+#. module: crm_lead_product
+#: model:ir.model.fields,help:crm_lead_product.field_crm_product_report__type
+msgid "Type is used to separate Leads and Opportunities"
+msgstr "Тип використовується для розділення лідів і нагод"

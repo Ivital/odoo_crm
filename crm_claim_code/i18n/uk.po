@@ -17,3 +17,8 @@ msgstr ""
 #: model:ir.model.fields,field_description:crm_claim_code.field_crm_claim__code
 msgid "Claim Number"
 msgstr "Номер претензії"
+
+#. module: crm_claim_code
+#: model:ir.model.constraint,message:crm_claim_code.constraint_crm_claim_crm_claim_unique_code
+msgid "The code must be unique!"
+msgstr "Код має бути унікальним!"

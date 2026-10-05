@@ -73,3 +73,38 @@ msgstr "Останнє оновлення"
 #: model:ir.model.fields,field_description:crm_stage_probability.field_crm_stage__probability
 msgid "Probability (%)"
 msgstr "Ймовірність (%)"
+
+#. module: crm_stage_probability
+#: model_terms:ir.ui.view,arch_db:crm_stage_probability.crm_lead_view_form_inherit
+msgid "% (According to stage)"
+msgstr "% (відповідно до етапу)"
+
+#. module: crm_stage_probability
+#: model_terms:ir.ui.view,arch_db:crm_stage_probability.view_crm_lead_stage_probability_update
+msgid "All the Leads and opportunities on following stages will be updated."
+msgstr "Усі ліди та нагоди на наступних етапах буде оновлено."
+
+#. module: crm_stage_probability
+#: model:ir.model.fields,field_description:crm_stage_probability.field_crm_stage__on_change
+msgid "Change Probability Automatically"
+msgstr "Автоматично змінювати ймовірність"
+
+#. module: crm_stage_probability
+#: model:ir.model.fields,field_description:crm_stage_probability.field_crm_lead__is_stage_probability
+msgid "Is Stage Probability"
+msgstr "Є ймовірністю етапу"
+
+#. module: crm_stage_probability
+#: model_terms:ir.ui.view,arch_db:crm_stage_probability.view_crm_lead_stage_probability_update
+msgid "Leads probability mass update"
+msgstr "Масове оновлення ймовірності лідів"
+
+#. module: crm_stage_probability
+#: model:ir.actions.act_window,name:crm_stage_probability.action_crm_lead_stage_probability_update
+msgid "Update leads probability"
+msgstr "Оновити ймовірність лідів"
+
+#. module: crm_stage_probability
+#: model_terms:ir.ui.view,arch_db:crm_stage_probability.view_crm_lead_stage_probability_update
+msgid "Update probabilities"
+msgstr "Оновити ймовірності"

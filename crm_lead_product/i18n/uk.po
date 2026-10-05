@@ -273,3 +273,53 @@ msgstr "Одиниця вимірювання"
 #: model_terms:ir.ui.view,arch_db:crm_lead_product.crm_opportunity_report_view_search
 msgid "Won"
 msgstr "Виграно"
+
+#. module: crm_lead_product
+#: model_terms:ir.ui.view,arch_db:crm_lead_product.crm_opportunity_report_view_search
+msgid "Conversion Date from Lead to Opportunity"
+msgstr "Дата перетворення ліда на нагоду"
+
+#. module: crm_lead_product
+#: model_terms:ir.ui.view,arch_db:crm_lead_product.crm_opportunity_report_view_search
+msgid "Opportunities Analysis"
+msgstr "Аналіз нагод"
+
+#. module: crm_lead_product
+#: model:ir.model.fields,field_description:crm_lead_product.field_crm_product_report__partner_id
+msgid "Partner/Customer"
+msgstr "Партнер/Клієнт"
+
+#. module: crm_lead_product
+#: model_terms:ir.actions.act_window,help:crm_lead_product.crm_product_report_action
+msgid ""
+"Pipeline Analysis gives you an instant access to\n"
+"your opportunities with information such as the expected revenue, planned cost,\n"
+"missed deadlines or the number of interactions per opportunity. This report is\n"
+"mainly used by the sales manager in order to do the periodic review with the\n"
+"teams of the sales pipeline."
+msgstr ""
+"Аналіз воронки надає миттєвий доступ до\n"
+"ваших можливостей із такими даними, як очікуваний дохід, планова собівартість,\n"
+"пропущені строки або кількість взаємодій для кожної можливості. Цей звіт\n"
+"переважно використовується керівником продажів для періодичного огляду\n"
+"воронки продажів разом із командами."
+
+#. module: crm_lead_product
+#: model:ir.actions.act_window,name:crm_lead_product.crm_product_report_action
+msgid "Pipeline by Product Analysis"
+msgstr "Аналіз воронки за товарами"
+
+#. module: crm_lead_product
+#: model:ir.model.fields,field_description:crm_lead_product.field_crm_product_report__prorated_revenue
+msgid "Prorated Revenue"
+msgstr "Пропорційний дохід"
+
+#. module: crm_lead_product
+#: model:ir.model.fields,field_description:crm_lead_product.field_crm_lead_line__prorated_revenue
+msgid "Prorated revenue"
+msgstr "Пропорційний дохід"
+
+#. module: crm_lead_product
+#: model_terms:ir.ui.view,arch_db:crm_lead_product.crm_opportunity_report_view_search
+msgid "Show only opportunity"
+msgstr "Показувати лише нагоду"

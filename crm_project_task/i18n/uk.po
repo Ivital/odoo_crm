@@ -98,3 +98,12 @@ msgstr "Лід/нагода"
 #: model_terms:ir.ui.view,arch_db:crm_project_task.inherit_crm_lead_view_form_crm_project_task
 msgid "Task(s)"
 msgstr "Завдання"
+
+#. module: crm_project_task
+#: model_terms:ir.ui.view,arch_db:crm_project_task.res_config_settings_view_form
+msgid ""
+"By default this project will be selected to create task from lead / "
+"opportunity"
+msgstr ""
+"За замовчуванням цей проєкт буде вибрано для створення завдання з ліда / "
+"нагоди"

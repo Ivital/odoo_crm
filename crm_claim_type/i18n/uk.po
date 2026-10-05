@@ -71,7 +71,7 @@ msgstr ""
 #. module: crm_claim_type
 #: model:ir.model.fields,field_description:crm_claim_type.field_crm_claim_stage__claim_common
 msgid "Common to All Claim Types"
-msgstr ""
+msgstr "Спільне для всіх типів претензій"
 
 #. module: crm_claim_type
 #: model:ir.model.fields,field_description:crm_claim_type.field_crm_claim_type__create_uid

@@ -71,7 +71,7 @@ msgstr "Назва"
 #. module: crm_phonecall_summary_predefined
 #: model:ir.model.constraint,message:crm_phonecall_summary_predefined.constraint_crm_phonecall_summary_name_unique
 msgid "Name must be unique"
-msgstr ""
+msgstr "Назва має бути унікальною"
 
 #. module: crm_phonecall_summary_predefined
 #: model:ir.model,name:crm_phonecall_summary_predefined.model_crm_phonecall

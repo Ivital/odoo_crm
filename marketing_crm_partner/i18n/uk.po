@@ -57,11 +57,15 @@ msgid ""
 "This is a name that helps you keep track of your different campaign efforts,"
 " e.g. Fall_Drive, Christmas_Special"
 msgstr ""
+"Це назва, яка допомагає відстежувати різні маркетингові кампанії, наприклад "
+"Fall_Drive, Christmas_Special"
 
 #. module: marketing_crm_partner
 #: model:ir.model.fields,help:marketing_crm_partner.field_res_partner__medium_id
 msgid "This is the method of delivery, e.g. Postcard, Email, or Banner Ad"
 msgstr ""
+"Це спосіб доставки, наприклад поштова листівка, електронна пошта або банерна"
+" реклама"
 
 #. module: marketing_crm_partner
 #: model:ir.model.fields,help:marketing_crm_partner.field_res_partner__source_id
@@ -69,3 +73,5 @@ msgid ""
 "This is the source of the link, e.g. Search Engine, another domain, or name "
 "of email list"
 msgstr ""
+"Це джерело посилання, наприклад пошукова система, інший домен або назва "
+"списку розсилки"

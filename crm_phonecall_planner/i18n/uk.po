@@ -88,7 +88,7 @@ msgstr ""
 #. module: crm_phonecall_planner
 #: model_terms:ir.ui.view,arch_db:crm_phonecall_planner.crm_phonecall_plan_view_form
 msgid "Generate planning"
-msgstr ""
+msgstr "Створити планування"
 
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,field_description:crm_phonecall_planner.field_crm_phonecall_planner__id
@@ -212,11 +212,15 @@ msgid ""
 "This is a name that helps you keep track of your different campaign efforts,"
 " e.g. Fall_Drive, Christmas_Special"
 msgstr ""
+"Це назва, яка допомагає відстежувати різні маркетингові кампанії, наприклад "
+"Fall_Drive, Christmas_Special"
 
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,help:crm_phonecall_planner.field_crm_phonecall_planner__medium_id
 msgid "This is the method of delivery, e.g. Postcard, Email, or Banner Ad"
 msgstr ""
+"Це спосіб доставки, наприклад поштова листівка, електронна пошта або банерна"
+" реклама"
 
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,help:crm_phonecall_planner.field_crm_phonecall_planner__source_id
@@ -224,6 +228,8 @@ msgid ""
 "This is the source of the link, e.g. Search Engine, another domain, or name "
 "of email list"
 msgstr ""
+"Це джерело посилання, наприклад пошукова система, інший домен або назва "
+"списку розсилки"
 
 #. module: crm_phonecall_planner
 #: model_terms:ir.ui.view,arch_db:crm_phonecall_planner.crm_phonecall_plan_view_form

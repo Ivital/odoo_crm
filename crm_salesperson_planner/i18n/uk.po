@@ -754,3 +754,134 @@ msgstr "Тижні"
 #: model:ir.model.fields.selection,name:crm_salesperson_planner.selection__crm_salesperson_planner_visit_template__rrule_type__yearly
 msgid "Years"
 msgstr "Роки"
+
+#. module: crm_salesperson_planner
+#: model:ir.actions.server,name:crm_salesperson_planner.ir_cron_create_visits_ir_actions_server
+msgid "CRM: Create salesperson visits"
+msgstr "CRM: створити візити продавця"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit__close_reason_image
+msgid "Close Reason Image"
+msgstr "Зображення причини закриття"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit__close_reason_notes
+msgid "Close Reason Notes"
+msgstr "Примітки причини закриття"
+
+#. module: crm_salesperson_planner
+#: model_terms:ir.actions.act_window,help:crm_salesperson_planner.crm_salesperson_planner_visit_template_action
+msgid "Create and plan commercial visit templates"
+msgstr "Створювати та планувати шаблони комерційних візитів"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,help:crm_salesperson_planner.field_crm_salesperson_planner_visit__activity_type_icon
+msgid "Font awesome icon e.g. fa-tasks"
+msgstr "Піктограма Font Awesome, наприклад fa-tasks"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,help:crm_salesperson_planner.field_crm_salesperson_planner_visit__activity_exception_icon
+msgid "Icon to indicate an exception activity."
+msgstr "Піктограма для позначення дії-винятку."
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,help:crm_salesperson_planner.field_crm_salesperson_planner_visit__message_needaction
+#: model:ir.model.fields,help:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__message_needaction
+msgid "If checked, new messages require your attention."
+msgstr "Якщо позначено, нові повідомлення потребують вашої уваги."
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,help:crm_salesperson_planner.field_crm_salesperson_planner_visit__message_has_error
+#: model:ir.model.fields,help:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__message_has_error
+msgid "If checked, some messages have a delivery error."
+msgstr "Якщо позначено, деякі повідомлення мають помилку доставки."
+
+#. module: crm_salesperson_planner
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_salesperson_planner_visit_template_form_view
+msgid "Manually Create Visits"
+msgstr "Створювати візити вручну"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__visit_ids_count
+msgid "Number of Sales Person Visits"
+msgstr "Кількість візитів продавця"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,help:crm_salesperson_planner.field_crm_salesperson_planner_visit__message_needaction_counter
+#: model:ir.model.fields,help:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__message_needaction_counter
+msgid "Number of messages requiring action"
+msgstr "Кількість повідомлень, що потребують дії"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,help:crm_salesperson_planner.field_crm_salesperson_planner_visit__message_has_error_counter
+#: model:ir.model.fields,help:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__message_has_error_counter
+msgid "Number of messages with delivery error"
+msgstr "Кількість повідомлень із помилкою доставки"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields.selection,name:crm_salesperson_planner.selection__crm_salesperson_planner_visit_template__end_type__count
+msgid "Number of repetitions"
+msgstr "Кількість повторень"
+
+#. module: crm_salesperson_planner
+#: model_terms:ir.actions.act_window,help:crm_salesperson_planner.all_crm_salesperson_planner_visit_action
+msgid "Record and track all sales commercial visits."
+msgstr "Записувати й відстежувати всі комерційні візити продажу."
+
+#. module: crm_salesperson_planner
+#: model_terms:ir.actions.act_window,help:crm_salesperson_planner.my_crm_salesperson_planner_visit_action
+msgid "Record and track my sales commercial visits."
+msgstr "Записувати й відстежувати мої комерційні візити продажу."
+
+#. module: crm_salesperson_planner
+#: model_terms:ir.actions.act_window,help:crm_salesperson_planner.crm_salesperson_planner_visit_close_reason_action
+msgid "Record reason for close commercial visits."
+msgstr "Записувати причину закриття комерційних візитів."
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__end_type
+msgid "Recurrence Termination"
+msgstr "Завершення повторення"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,help:crm_salesperson_planner.field_crm_salesperson_planner_visit__activity_state
+msgid ""
+"Status based on activities\n"
+"Overdue: Due date is already passed\n"
+"Today: Activity date is today\n"
+"Planned: Future activities."
+msgstr ""
+"Стан на основі дій\n"
+"Прострочено: строк уже минув\n"
+"Сьогодні: дата дії — сьогодні\n"
+"Заплановано: майбутні дії."
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,help:crm_salesperson_planner.field_crm_salesperson_planner_visit__activity_exception_decoration
+msgid "Type of the exception activity on record."
+msgstr "Тип дії-винятку для запису."
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,help:crm_salesperson_planner.field_crm_salesperson_planner_visit__sequence
+#: model:ir.model.fields,help:crm_salesperson_planner.field_crm_salesperson_planner_visit_close_wiz__new_sequence
+#: model:ir.model.fields,help:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__sequence
+msgid "Used to order Visits in the different views"
+msgstr ""
+"Використовується для впорядкування відвідувань у різних представленнях"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__name
+msgid "Visit Template Number"
+msgstr "Номер шаблону візиту"
+
+#. module: crm_salesperson_planner
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_salesperson_planner_visit_filter
+msgid "Visits that are assigned to me"
+msgstr "Візити, призначені мені"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,help:crm_salesperson_planner.field_crm_salesperson_planner_visit__website_message_ids
+#: model:ir.model.fields,help:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__website_message_ids
+msgid "Website communication history"
+msgstr "Історія комунікації через вебсайт"

@@ -30,11 +30,13 @@ msgid ""
 "<span class=\"o_stat_text\" invisible=\"task_count &lt; 2\">Tasks</span>\n"
 "                        <span class=\"o_stat_text\" invisible=\"task_count &gt; 1\">Task</span>"
 msgstr ""
+"<span class=\"o_stat_text\" invisible=\"task_count &lt; 2\">Завдання</span>\n"
+"                        <span class=\"o_stat_text\" invisible=\"task_count &gt; 1\">Завдання</span>"
 
 #. module: crm_lead_to_task
 #: model_terms:ir.ui.view,arch_db:crm_lead_to_task.view_task_form2
 msgid "<span class=\"o_stat_text\">CRM Lead</span>"
-msgstr ""
+msgstr "<span class=\"o_stat_text\">Лід CRM</span>"
 
 #. module: crm_lead_to_task
 #: model_terms:ir.ui.view,arch_db:crm_lead_to_task.crm_lead_to_task_res_config_settings_view_form
@@ -89,7 +91,7 @@ msgstr "Архівувати лід CRM під час конвертації"
 #. module: crm_lead_to_task
 #: model_terms:ir.ui.view,arch_db:crm_lead_to_task.crm_lead_to_task_res_config_settings_view_form
 msgid "Default project to be used when creating a task from a lead."
-msgstr ""
+msgstr "Проєкт за замовчуванням для створення завдання з ліда."
 
 #. module: crm_lead_to_task
 #: model:ir.model.fields,field_description:crm_lead_to_task.field_crm_lead_convert2task__display_name
@@ -118,6 +120,8 @@ msgid ""
 "If enabled, leads will be archived automatically after converting it to a "
 "task."
 msgstr ""
+"Якщо ввімкнено, ліди автоматично архівуватимуться після перетворення на "
+"завдання."
 
 #. module: crm_lead_to_task
 #: model:ir.model.fields,field_description:crm_lead_to_task.field_crm_lead_convert2task__write_uid

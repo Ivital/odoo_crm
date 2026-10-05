@@ -73,3 +73,13 @@ msgstr "Діапазон обороту"
 #: model:ir.model.fields,field_description:crm_partner_capital.field_crm_lead__turnover_range_id
 msgid "Turnover range"
 msgstr "Діапазон обороту"
+
+#. module: crm_partner_capital
+#: model:ir.model.fields,help:crm_partner_capital.field_crm_lead__capital_country_id
+msgid "Country of origin of this company's capital."
+msgstr "Країна походження капіталу цієї компанії."
+
+#. module: crm_partner_capital
+#: model:ir.model.fields,help:crm_partner_capital.field_crm_lead__capital_amount
+msgid "Publicly registered capital amount."
+msgstr "Розмір публічно зареєстрованого статутного капіталу."

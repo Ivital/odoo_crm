@@ -22,3 +22,8 @@ msgstr "Сума клієнта"
 #: model:ir.model.fields,field_description:crm_lead_currency.field_crm_lead__is_same_currency
 msgid "Same currency"
 msgstr "Та сама валюта"
+
+#. module: crm_lead_currency
+#: model:ir.model.fields,field_description:crm_lead_currency.field_crm_lead__customer_currency_id
+msgid "Customer currency"
+msgstr "Валюта клієнта"

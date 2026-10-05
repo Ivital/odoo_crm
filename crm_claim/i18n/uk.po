@@ -573,3 +573,125 @@ msgstr "Електронні адреси спостерігачів"
 #: model:ir.model.fields,field_description:crm_claim.field_crm_claim__website_message_ids
 msgid "Website Messages"
 msgstr "Повідомлення вебсайту"
+
+#. module: crm_claim
+#: model_terms:ir.ui.view,arch_db:crm_claim.crm_case_claims_form_view
+msgid "Action Description..."
+msgstr "Опис дії..."
+
+#. module: crm_claim
+#: model_terms:ir.ui.view,arch_db:crm_claim.view_crm_case_claims_filter
+msgid "Claim Date by Month"
+msgstr "Претензії за місяцем"
+
+#. module: crm_claim
+#: model_terms:ir.actions.act_window,help:crm_claim.crm_claim_categ_action
+msgid "Click to create a claim category."
+msgstr "Натисніть, щоб створити категорію претензії."
+
+#. module: crm_claim
+#: model_terms:ir.actions.act_window,help:crm_claim.crm_claim_stage_act
+msgid "Click to setup a new stage in the processing of the claims."
+msgstr "Натисніть, щоб налаштувати новий етап обробки претензій."
+
+#. module: crm_claim
+#: model_terms:ir.actions.act_window,help:crm_claim.crm_claim_categ_action
+msgid ""
+"Create claim categories to better manage and classify your\n"
+"            claims. Some examples of claims can be: preventive action,\n"
+"            corrective action."
+msgstr ""
+"Створюйте категорії претензій для кращого керування та класифікації\n"
+"            претензій. Приклади: запобіжна дія,\n"
+"            коригувальна дія."
+
+#. module: crm_claim
+#: model:ir.model.fields,help:crm_claim.field_crm_claim__activity_type_icon
+msgid "Font awesome icon e.g. fa-tasks"
+msgstr "Піктограма Font Awesome, наприклад fa-tasks"
+
+#. module: crm_claim
+#: model_terms:ir.actions.act_window,help:crm_claim.action_report_crm_claim
+msgid ""
+"Have a general overview of all claims processed in the system by sorting "
+"them with specific criteria."
+msgstr ""
+"Отримайте загальний огляд усіх претензій у системі, сортуючи їх за "
+"визначеними критеріями."
+
+#. module: crm_claim
+#: model:ir.model.fields,help:crm_claim.field_crm_claim__activity_exception_icon
+msgid "Icon to indicate an exception activity."
+msgstr "Піктограма для позначення дії-винятку."
+
+#. module: crm_claim
+#: model:ir.model.fields,help:crm_claim.field_crm_claim__message_needaction
+msgid "If checked, new messages require your attention."
+msgstr "Якщо позначено, нові повідомлення потребують вашої уваги."
+
+#. module: crm_claim
+#: model:ir.model.fields,help:crm_claim.field_crm_claim__message_has_error
+msgid "If checked, some messages have a delivery error."
+msgstr "Якщо позначено, деякі повідомлення мають помилку доставки."
+
+#. module: crm_claim
+#: model:ir.model.fields,help:crm_claim.field_crm_claim__message_needaction_counter
+msgid "Number of messages requiring action"
+msgstr "Кількість повідомлень, що потребують дії"
+
+#. module: crm_claim
+#: model:ir.model.fields,help:crm_claim.field_crm_claim__message_has_error_counter
+msgid "Number of messages with delivery error"
+msgstr "Кількість повідомлень із помилкою доставки"
+
+#. module: crm_claim
+#: model:ir.model.fields,field_description:crm_claim.field_crm_claim_report__delay_expected
+msgid "Overpassed Deadline"
+msgstr "Пропущений крайній термін"
+
+#. module: crm_claim
+#: model_terms:ir.actions.act_window,help:crm_claim.crm_claim_category_claim0
+msgid ""
+"Record and track your customers' claims.\n"
+"                Claims may be linked to a sales order or a lot.\n"
+"                You can send emails with attachments and keep the full history for a claim (emails sent, intervention type and so on).\n"
+"                Claims may automatically be linked to an email address using the mail gateway module."
+msgstr ""
+"Реєструйте та відстежуйте претензії клієнтів.\n"
+"                Претензії можуть бути пов'язані із замовленням на продаж або партією.\n"
+"                Можна надсилати електронні листи з вкладеннями та зберігати повну історію претензії (надіслані листи, тип втручання тощо).\n"
+"                Претензії можуть автоматично пов'язуватися з адресою електронної пошти через модуль поштового шлюзу."
+
+#. module: crm_claim
+#: model:ir.model.fields,help:crm_claim.field_crm_claim__activity_state
+msgid ""
+"Status based on activities\n"
+"Overdue: Due date is already passed\n"
+"Today: Activity date is today\n"
+"Planned: Future activities."
+msgstr ""
+"Стан на основі дій\n"
+"Прострочено: строк уже минув\n"
+"Сьогодні: дата дії — сьогодні\n"
+"Заплановано: майбутні дії."
+
+#. module: crm_claim
+#: model:ir.model.fields,help:crm_claim.field_crm_claim__activity_exception_decoration
+msgid "Type of the exception activity on record."
+msgstr "Тип дії-винятку для запису."
+
+#. module: crm_claim
+#: model:ir.model.fields,help:crm_claim.field_crm_claim__website_message_ids
+msgid "Website communication history"
+msgstr "Історія комунікації через вебсайт"
+
+#. module: crm_claim
+#: model_terms:ir.actions.act_window,help:crm_claim.crm_claim_stage_act
+msgid ""
+"You can create claim stages to categorize the status of every\n"
+"            claim entered in the system. The stages define all the steps\n"
+"            required for the resolution of a claim."
+msgstr ""
+"Ви можете створювати етапи претензій, щоб класифікувати стан кожної\n"
+"            претензії, внесеної до системи. Етапи визначають усі кроки,\n"
+"            необхідні для врегулювання претензії."

@@ -61,7 +61,7 @@ msgstr ""
 #. module: crm_claim_type
 #: model_terms:ir.ui.view,arch_db:crm_claim_type.crm_claim_type_form
 msgid "Claim type"
-msgstr ""
+msgstr "Тип претензії"
 
 #. module: crm_claim_type
 #: model_terms:ir.ui.view,arch_db:crm_claim_type.crm_claim_type_tree
@@ -106,7 +106,7 @@ msgstr ""
 #. module: crm_claim_type
 #: model_terms:ir.ui.view,arch_db:crm_claim_type.crm_stage_claim_type_search
 msgid "Group By"
-msgstr ""
+msgstr "Групувати за"
 
 #. module: crm_claim_type
 #: model:ir.model.fields,field_description:crm_claim_type.field_crm_claim_type__id
@@ -143,12 +143,12 @@ msgstr "Назва"
 #. module: crm_claim_type
 #: model:crm.claim.type,name:crm_claim_type.crm_claim_type_other
 msgid "Other"
-msgstr ""
+msgstr "Інше"
 
 #. module: crm_claim_type
 #: model_terms:ir.ui.view,arch_db:crm_claim_type.crm_stage_claim_type_search
 msgid "Search Stages"
-msgstr ""
+msgstr "Шукати етапи"
 
 #. module: crm_claim_type
 #: model:ir.model.fields,field_description:crm_claim_type.field_crm_claim__stage_id

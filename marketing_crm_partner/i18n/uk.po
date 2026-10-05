@@ -37,7 +37,7 @@ msgstr ""
 #. module: marketing_crm_partner
 #: model_terms:ir.ui.view,arch_db:marketing_crm_partner.view_partner_form
 msgid "Marketing"
-msgstr ""
+msgstr "Маркетинг"
 
 #. module: marketing_crm_partner
 #: model:ir.model.fields,field_description:marketing_crm_partner.field_res_partner__medium_id

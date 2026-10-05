@@ -39,7 +39,7 @@ msgstr ""
 #. module: crm_lead_to_task
 #: model_terms:ir.ui.view,arch_db:crm_lead_to_task.crm_lead_to_task_res_config_settings_view_form
 msgid "Archive lead"
-msgstr ""
+msgstr "Архівувати лід"
 
 #. module: crm_lead_to_task
 #: model_terms:ir.ui.view,arch_db:crm_lead_to_task.crm_lead_convert2task_view_form
@@ -84,7 +84,7 @@ msgstr "Створено"
 #: model:ir.model.fields,field_description:crm_lead_to_task.field_res_company__crm_archive_lead_on_convert
 #: model:ir.model.fields,field_description:crm_lead_to_task.field_res_config_settings__crm_archive_lead_on_convert
 msgid "Crm Archive Lead On Convert"
-msgstr ""
+msgstr "Архівувати лід CRM під час конвертації"
 
 #. module: crm_lead_to_task
 #: model_terms:ir.ui.view,arch_db:crm_lead_to_task.crm_lead_to_task_res_config_settings_view_form
@@ -99,13 +99,13 @@ msgstr "Назва для відображення"
 #. module: crm_lead_to_task
 #: model:ir.model.fields,field_description:crm_lead_to_task.field_project_task__effective_lead_id
 msgid "Effective Lead"
-msgstr ""
+msgstr "Ефективний лід"
 
 #. module: crm_lead_to_task
 #: model:ir.model.fields,field_description:crm_lead_to_task.field_res_company__crm_force_project_id
 #: model:ir.model.fields,field_description:crm_lead_to_task.field_res_config_settings__crm_force_project_id
 msgid "Force Project"
-msgstr ""
+msgstr "Примусово створити проєкт"
 
 #. module: crm_lead_to_task
 #: model:ir.model.fields,field_description:crm_lead_to_task.field_crm_lead_convert2task__id
@@ -179,7 +179,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:crm_lead_to_task.project_message_user_assigned
 #: model_terms:ir.ui.view,arch_db:crm_lead_to_task.task_invitation_follower
 msgid "of lead/opportunity"
-msgstr ""
+msgstr "ліда/нагоди"
 
 #~ msgid "Last Modified on"
 #~ msgstr "Остання модифікація"

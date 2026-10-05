@@ -45,3 +45,31 @@ msgstr "Етап"
 #: model:ir.model.fields,field_description:crm_stage_probability.field_crm_lead_stage_probability_update_line__wizard_id
 msgid "Wizard"
 msgstr "Майстер"
+
+#. module: crm_stage_probability
+#: model_terms:ir.ui.view,arch_db:crm_stage_probability.view_crm_lead_stage_probability_update
+msgid "Cancel"
+msgstr "Скасувати"
+
+#. module: crm_stage_probability
+#: model:ir.model.fields,field_description:crm_stage_probability.field_crm_lead_stage_probability_update__crm_stage_update_ids
+msgid "Crm Stage Update"
+msgstr "Оновлення етапу CRM"
+
+#. module: crm_stage_probability
+#: model:ir.model.fields,field_description:crm_stage_probability.field_crm_lead_stage_probability_update__write_uid
+#: model:ir.model.fields,field_description:crm_stage_probability.field_crm_lead_stage_probability_update_line__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: crm_stage_probability
+#: model:ir.model.fields,field_description:crm_stage_probability.field_crm_lead_stage_probability_update__write_date
+#: model:ir.model.fields,field_description:crm_stage_probability.field_crm_lead_stage_probability_update_line__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"
+
+#. module: crm_stage_probability
+#: model:ir.model.fields,field_description:crm_stage_probability.field_crm_lead__stage_probability
+#: model:ir.model.fields,field_description:crm_stage_probability.field_crm_stage__probability
+msgid "Probability (%)"
+msgstr "Ймовірність (%)"

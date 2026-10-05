@@ -39,3 +39,44 @@ msgstr "Тип причини"
 #: model_terms:ir.ui.view,arch_db:crm_won_reason.crm_lead_win_view_form
 msgid "Won Reason"
 msgstr "Причина виграшу"
+
+#. module: crm_won_reason
+#: model_terms:ir.ui.view,arch_db:crm_won_reason.crm_lead_win_view_form
+msgid "Cancel"
+msgstr "Скасувати"
+
+#. module: crm_won_reason
+#: model:ir.model.fields,field_description:crm_won_reason.field_crm_lead_won__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: crm_won_reason
+#: model:ir.model.fields,field_description:crm_won_reason.field_crm_lead_won__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"
+
+#. module: crm_won_reason
+#: model:ir.model.fields.selection,name:crm_won_reason.selection__crm_lost_reason__reason_type__lost
+msgid "Lost"
+msgstr "Втрачено"
+
+#. module: crm_won_reason
+#: model_terms:ir.ui.view,arch_db:crm_won_reason.crm_lead_view_form
+msgid "Mark as won"
+msgstr "Позначити як виграно"
+
+#. module: crm_won_reason
+#: model_terms:ir.ui.view,arch_db:crm_won_reason.crm_lead_win_view_form
+msgid "Submit"
+msgstr "Надіслати"
+
+#. module: crm_won_reason
+#: model:ir.actions.act_window,name:crm_won_reason.crm_lead_win_action
+msgid "Win Reason"
+msgstr "Причина виграшу"
+
+#. module: crm_won_reason
+#: model:ir.model.fields.selection,name:crm_won_reason.selection__crm_lost_reason__reason_type__won
+#: model_terms:ir.ui.view,arch_db:crm_won_reason.crm_lead_view_form
+msgid "Won"
+msgstr "Виграно"

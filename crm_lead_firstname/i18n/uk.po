@@ -27,3 +27,13 @@ msgstr "Ім’я"
 #: model:ir.model.fields,field_description:crm_lead_firstname.field_crm_lead__contact_lastname
 msgid "Last name"
 msgstr "Прізвище"
+
+#. module: crm_lead_firstname
+#: model_terms:ir.ui.view,arch_db:crm_lead_firstname.crm_lead_view_form
+msgid "Firstname"
+msgstr "Ім'я"
+
+#. module: crm_lead_firstname
+#: model_terms:ir.ui.view,arch_db:crm_lead_firstname.crm_lead_view_form
+msgid "Lastname"
+msgstr "Прізвище"

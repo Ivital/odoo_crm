@@ -22,3 +22,13 @@ msgstr "Батьківський шлях"
 #: model:ir.model.fields,field_description:crm_team_parent.field_crm_team__parent_id
 msgid "Parent team"
 msgstr "Батьківська команда"
+
+#. module: crm_team_parent
+#: model_terms:ir.ui.view,arch_db:crm_team_parent.crm_team_form_view
+msgid "Children Teams"
+msgstr "Дочірні команди"
+
+#. module: crm_team_parent
+#: model:ir.model.fields,field_description:crm_team_parent.field_crm_team__child_ids
+msgid "Children team"
+msgstr "Команда дочірніх елементів"

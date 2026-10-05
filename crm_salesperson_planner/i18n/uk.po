@@ -415,3 +415,342 @@ msgstr "Середа"
 #: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__weekday
 msgid "Weekday"
 msgstr "День тижня"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit__message_needaction
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__message_needaction
+msgid "Action Needed"
+msgstr "Потрібна дія"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit__activity_exception_decoration
+msgid "Activity Exception Decoration"
+msgstr "Оформлення винятку дії"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit__activity_state
+msgid "Activity State"
+msgstr "Стан дії"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit__activity_type_icon
+msgid "Activity Type Icon"
+msgstr "Піктограма типу дії"
+
+#. module: crm_salesperson_planner
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_salesperson_planner_visit_form_view
+msgid "Add a description..."
+msgstr "Додати опис..."
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit_close_wiz__allow_reschedule
+msgid "Allow Reschedule"
+msgstr "Дозволити перепланування"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit__message_attachment_count
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__message_attachment_count
+msgid "Attachment Count"
+msgstr "Кількість вкладень"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__auto_validate
+msgid "Auto Validate"
+msgstr "Автоматично перевіряти"
+
+#. module: crm_salesperson_planner
+#: model:ir.model,name:crm_salesperson_planner.model_calendar_event
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit__calendar_event_id
+msgid "Calendar Event"
+msgstr "Подія календаря"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields.selection,name:crm_salesperson_planner.selection__crm_salesperson_planner_visit_close_reason__close_type__cancel
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_salesperson_planner_visit_close_wiz_view_form
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_salesperson_planner_visit_form_view
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_salesperson_planner_visit_template_create_view_form
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_salesperson_planner_visit_template_form_view
+msgid "Cancel"
+msgstr "Скасувати"
+
+#. module: crm_salesperson_planner
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_salesperson_planner_visit_form_view
+msgid "Close Info"
+msgstr "Інформація закриття"
+
+#. module: crm_salesperson_planner
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_salesperson_planner_visit_form_view
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_salesperson_planner_visit_tree_view
+msgid "Confirm"
+msgstr "Підтвердити"
+
+#. module: crm_salesperson_planner
+#: model:ir.actions.act_window,name:crm_salesperson_planner.crm_salesperson_planner_visit_template_create_action
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_salesperson_planner_visit_template_create_view_form
+msgid "Create Visits"
+msgstr "Створити візити"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__day
+#: model:ir.model.fields.selection,name:crm_salesperson_planner.selection__crm_salesperson_planner_visit_template__month_by__date
+msgid "Date of month"
+msgstr "День місяця"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields.selection,name:crm_salesperson_planner.selection__crm_salesperson_planner_visit_template__month_by__day
+msgid "Day of month"
+msgstr "День місяця"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields.selection,name:crm_salesperson_planner.selection__crm_salesperson_planner_visit__state__draft
+#: model:ir.model.fields.selection,name:crm_salesperson_planner.selection__crm_salesperson_planner_visit_template__state__draft
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_salesperson_planner_visit_form_view
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_salesperson_planner_visit_tree_view
+msgid "Draft"
+msgstr "Чернетка"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields.selection,name:crm_salesperson_planner.selection__crm_salesperson_planner_visit_template__byday__1
+msgid "First"
+msgstr "Перший"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields.selection,name:crm_salesperson_planner.selection__crm_salesperson_planner_visit_template__end_type__forever
+msgid "Forever"
+msgstr "Назавжди"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields.selection,name:crm_salesperson_planner.selection__crm_salesperson_planner_visit_template__byday__4
+msgid "Fourth"
+msgstr "Четвертий"
+
+#. module: crm_salesperson_planner
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_salesperson_planner_visit_filter
+msgid "Future Visits"
+msgstr "Майбутні візити"
+
+#. module: crm_salesperson_planner
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_salesperson_planner_visit_filter
+msgid "Group By"
+msgstr "Групувати за"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields.selection,name:crm_salesperson_planner.selection__crm_salesperson_planner_visit_template__state__in-progress
+msgid "In Progress"
+msgstr "У процесі"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields.selection,name:crm_salesperson_planner.selection__crm_salesperson_planner_visit__state__incident
+#: model:ir.model.fields.selection,name:crm_salesperson_planner.selection__crm_salesperson_planner_visit_close_reason__close_type__incident
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_salesperson_planner_visit_form_view
+msgid "Incident"
+msgstr "Інцидент"
+
+#. module: crm_salesperson_planner
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_salesperson_planner_visit_form_view
+msgid "Internal Notes"
+msgstr "Внутрішні примітки"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields.selection,name:crm_salesperson_planner.selection__crm_salesperson_planner_visit_template__byday__-1
+msgid "Last"
+msgstr "Останній"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit__write_uid
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit_close_reason__write_uid
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit_close_wiz__write_uid
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__write_uid
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit_template_create__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit__write_date
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit_close_reason__write_date
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit_close_wiz__write_date
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__write_date
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit_template_create__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__last_visit_date
+msgid "Last Visit Date"
+msgstr "Дата останнього візиту"
+
+#. module: crm_salesperson_planner
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_salesperson_planner_visit_filter
+msgid "Late Visits"
+msgstr "Прострочені візити"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit__message_has_error
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__message_has_error
+msgid "Message Delivery error"
+msgstr "Помилка доставки повідомлення"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit__my_activity_date_deadline
+msgid "My Activity Deadline"
+msgstr "Кінцевий термін моєї дії"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit__activity_calendar_event_id
+msgid "Next Activity Calendar Event"
+msgstr "Подія календаря наступної дії"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit__activity_date_deadline
+msgid "Next Activity Deadline"
+msgstr "Кінцевий термін наступної дії"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit__activity_summary
+msgid "Next Activity Summary"
+msgstr "Підсумок наступної дії"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit__activity_type_id
+msgid "Next Activity Type"
+msgstr "Тип наступної дії"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit__message_needaction_counter
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__message_needaction_counter
+msgid "Number of Actions"
+msgstr "Кількість дій"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_res_partner__salesperson_planner_visit_count
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_res_users__salesperson_planner_visit_count
+msgid "Number of Salesperson Visits"
+msgstr "Кількість візитів продавця"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit__message_has_error_counter
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__message_has_error_counter
+msgid "Number of errors"
+msgstr "Кількість помилок"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit__opportunity_ids
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_salesperson_planner_visit_form_view
+msgid "Opportunities"
+msgstr "Нагоди"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__rrule
+msgid "Recurrent Rule"
+msgstr "Правило повторення"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__final_date
+msgid "Repeat Until"
+msgstr "Повторювати до"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit_close_reason__require_image
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit_close_wiz__require_image
+msgid "Require Image"
+msgstr "Вимагати зображення"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit__activity_user_id
+msgid "Responsible User"
+msgstr "Відповідальний користувач"
+
+#. module: crm_salesperson_planner
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_salesperson_planner_visit_template_form_view
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.partner_view_crm_salesperson_planner
+msgid "Sales Visits"
+msgstr "Візити продажу"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_calendar_event__salesperson_planner_visit_ids
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_lead_crm_salesperson_planner
+msgid "Salesperson Visits"
+msgstr "Візити продавця"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__partner_id
+msgid "Scheduled by"
+msgstr "Заплановано ким"
+
+#. module: crm_salesperson_planner
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_salesperson_planner_visit_filter
+msgid "Search Visits"
+msgstr "Шукати візити"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields.selection,name:crm_salesperson_planner.selection__crm_salesperson_planner_visit_template__byday__2
+msgid "Second"
+msgstr "Другий"
+
+#. module: crm_salesperson_planner
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_salesperson_planner_visit_template_form_view
+msgid "Send to Draft"
+msgstr "Повернути до чернетки"
+
+#. module: crm_salesperson_planner
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_salesperson_planner_visit_close_wiz_view_form
+msgid "Submit"
+msgstr "Надіслати"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields.selection,name:crm_salesperson_planner.selection__crm_salesperson_planner_visit_template__byday__3
+msgid "Third"
+msgstr "Третій"
+
+#. module: crm_salesperson_planner
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_salesperson_planner_visit_filter
+msgid "Today Visits"
+msgstr "Візити сьогодні"
+
+#. module: crm_salesperson_planner
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_salesperson_planner_visit_template_form_view
+msgid "Validate"
+msgstr "Підтвердити"
+
+#. module: crm_salesperson_planner
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_salesperson_planner_visit_form_view
+msgid "Visit"
+msgstr "Візит"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit__name
+msgid "Visit Number"
+msgstr "Номер візиту"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit__visit_template_id
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__visit_ids
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_salesperson_planner_visit_template_form_view
+msgid "Visit Template"
+msgstr "Шаблон візиту"
+
+#. module: crm_salesperson_planner
+#: model_terms:ir.ui.view,arch_db:crm_salesperson_planner.crm_salesperson_planner_visit_filter
+msgid "Visit by Date"
+msgstr "Візити за датою"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields.selection,name:crm_salesperson_planner.selection__crm_salesperson_planner_visit__state__done
+msgid "Visited"
+msgstr "Відвідано"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit__website_message_ids
+#: model:ir.model.fields,field_description:crm_salesperson_planner.field_crm_salesperson_planner_visit_template__website_message_ids
+msgid "Website Messages"
+msgstr "Повідомлення вебсайту"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields.selection,name:crm_salesperson_planner.selection__crm_salesperson_planner_visit_template__rrule_type__weekly
+msgid "Weeks"
+msgstr "Тижні"
+
+#. module: crm_salesperson_planner
+#: model:ir.model.fields.selection,name:crm_salesperson_planner.selection__crm_salesperson_planner_visit_template__rrule_type__yearly
+msgid "Years"
+msgstr "Роки"

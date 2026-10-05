@@ -33,12 +33,12 @@ msgstr "Підсумок дзвінка"
 #. module: crm_phonecall_planner
 #: model_terms:ir.ui.view,arch_db:crm_phonecall_planner.crm_phonecall_plan_view_form
 msgid "Call details"
-msgstr ""
+msgstr "Деталі дзвінка"
 
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,field_description:crm_phonecall_planner.field_crm_phonecall_planner__duration
 msgid "Call duration"
-msgstr ""
+msgstr "Тривалість дзвінка"
 
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,field_description:crm_phonecall_planner.field_crm_phonecall_planner__campaign_id
@@ -63,7 +63,7 @@ msgstr "Дата створення"
 #. module: crm_phonecall_planner
 #: model_terms:ir.ui.view,arch_db:crm_phonecall_planner.crm_phonecall_plan_view_form
 msgid "Criteria"
-msgstr ""
+msgstr "Критерії"
 
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,field_description:crm_phonecall_planner.field_crm_phonecall_planner__days_gap
@@ -123,7 +123,7 @@ msgstr "Середній"
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,field_description:crm_phonecall_planner.field_crm_phonecall_planner__res_partner_domain
 msgid "Partners filter"
-msgstr ""
+msgstr "Фільтр партнерів"
 
 #. module: crm_phonecall_planner
 #: model:ir.model,name:crm_phonecall_planner.model_crm_phonecall_planner
@@ -133,7 +133,7 @@ msgstr ""
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,field_description:crm_phonecall_planner.field_crm_phonecall_planner__planned_calls
 msgid "Planned Calls"
-msgstr ""
+msgstr "Заплановані дзвінки"
 
 #. module: crm_phonecall_planner
 #: model:ir.actions.act_window,name:crm_phonecall_planner.crm_phonecall_planner_open
@@ -144,12 +144,12 @@ msgstr "Планувальник"
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,field_description:crm_phonecall_planner.field_crm_phonecall_planner__repeat_calls
 msgid "Repeat Calls"
-msgstr ""
+msgstr "Повторні виклики"
 
 #. module: crm_phonecall_planner
 #: model_terms:ir.ui.view,arch_db:crm_phonecall_planner.crm_phonecall_plan_view_form
 msgid "Repetition"
-msgstr ""
+msgstr "Повторення"
 
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,field_description:crm_phonecall_planner.field_crm_phonecall_planner__user_id
@@ -183,7 +183,7 @@ msgstr ""
 #. module: crm_phonecall_planner
 #: model_terms:ir.ui.view,arch_db:crm_phonecall_planner.crm_phonecall_plan_view_form
 msgid "Scheduling"
-msgstr ""
+msgstr "Планування"
 
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,field_description:crm_phonecall_planner.field_crm_phonecall_planner__source_id
@@ -228,4 +228,4 @@ msgstr ""
 #. module: crm_phonecall_planner
 #: model_terms:ir.ui.view,arch_db:crm_phonecall_planner.crm_phonecall_plan_view_form
 msgid "Times"
-msgstr ""
+msgstr "Разів"

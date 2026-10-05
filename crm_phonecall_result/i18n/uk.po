@@ -53,3 +53,23 @@ msgstr "Пріоритет"
 #: model:ir.model.fields,field_description:crm_phonecall_result.field_crm_phonecall__phone_result_id
 msgid "Result call"
 msgstr "Результат виклику"
+
+#. module: crm_phonecall_result
+#: model_terms:ir.ui.view,arch_db:crm_phonecall_result.view_crm_phonecall_search_inherit_result
+msgid "Call result"
+msgstr "Результат дзвінка"
+
+#. module: crm_phonecall_result
+#: model:ir.model.fields,field_description:crm_phonecall_result.field_crm_phonecall_result__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: crm_phonecall_result
+#: model:ir.model.fields,field_description:crm_phonecall_result.field_crm_phonecall_result__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"
+
+#. module: crm_phonecall_result
+#: model:ir.model.fields,field_description:crm_phonecall_result.field_crm_phonecall_report__phone_result_id
+msgid "Phone Result"
+msgstr "Результат дзвінка"

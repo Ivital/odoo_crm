@@ -37,3 +37,25 @@ msgstr "Лід"
 #: model:ir.model.fields,field_description:crm_project_create.field_crm_create_project__project_name
 msgid "Project Name"
 msgstr "Назва проєкту"
+
+#. module: crm_project_create
+#: model_terms:ir.ui.view,arch_db:crm_project_create.crm_create_project_view_form
+msgid "Cancel"
+msgstr "Скасувати"
+
+#. module: crm_project_create
+#: model:ir.actions.act_window,name:crm_project_create.crm_create_project_action
+#: model_terms:ir.ui.view,arch_db:crm_project_create.crm_create_project_view_form
+#: model_terms:ir.ui.view,arch_db:crm_project_create.crm_lead_view_form_crm_project_project
+msgid "Create Project"
+msgstr "Створити проєкт"
+
+#. module: crm_project_create
+#: model:ir.model.fields,field_description:crm_project_create.field_crm_create_project__write_uid
+msgid "Last Updated by"
+msgstr "Останнє оновлення ким"
+
+#. module: crm_project_create
+#: model:ir.model.fields,field_description:crm_project_create.field_crm_create_project__write_date
+msgid "Last Updated on"
+msgstr "Останнє оновлення"

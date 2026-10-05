@@ -26,7 +26,7 @@ msgstr "Підсумок дзвінка"
 #. module: crm_phonecall_summary_predefined
 #: model:ir.model.fields,field_description:crm_phonecall_summary_predefined.field_crm_phonecall2phonecall__name
 msgid "Call summary"
-msgstr ""
+msgstr "Підсумок дзвінка"
 
 #. module: crm_phonecall_summary_predefined
 #: model:ir.model.fields,field_description:crm_phonecall_summary_predefined.field_crm_phonecall_summary__create_uid

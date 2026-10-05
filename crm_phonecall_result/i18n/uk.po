@@ -109,3 +109,9 @@ msgstr "Позитивний"
 #: model:crm.phonecall.result,name:crm_phonecall_result.phonecall_result_wrong_number
 msgid "Wrong number"
 msgstr "Неправильний номер"
+
+#. module: crm_phonecall_result
+#. odoo-python
+#: code:addons/crm_phonecall_result/models/crm_phonecall_result.py:0
+msgid "{} (Copy)"
+msgstr "{} (Копія)"

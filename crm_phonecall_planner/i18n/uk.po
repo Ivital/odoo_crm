@@ -205,7 +205,7 @@ msgstr "Почати"
 #: code:addons/crm_phonecall_planner/wizards/crm_phonecall_planner.py:0
 #, python-format
 msgid "Starting date must be less than ending date"
-msgstr ""
+msgstr "Дата початку має бути раніше дати завершення"
 
 #. module: crm_phonecall_planner
 #: model:ir.model.fields,field_description:crm_phonecall_planner.field_crm_phonecall_planner__tag_ids

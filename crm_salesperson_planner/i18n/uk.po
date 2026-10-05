@@ -955,3 +955,52 @@ msgstr "Номер шаблону відвідування має бути ун�
 #: model:ir.model,name:crm_salesperson_planner.model_crm_salesperson_planner_visit_template_create
 msgid "crm salesperson planner visit template create"
 msgstr "створення шаблону відвідування планувальника продавця CRM"
+
+#. module: crm_salesperson_planner
+#. odoo-python
+#: code:addons/crm_salesperson_planner/models/crm_salesperson_planner_visit_template.py:0
+#: code:addons/crm_salesperson_planner/tests/test_crm_salesperson_planner_visit.py:0
+msgid "Only one customer is allowed"
+msgstr "Дозволено лише одного клієнта"
+
+#. module: crm_salesperson_planner
+#. odoo-python
+#: code:addons/crm_salesperson_planner/wizards/crm_salesperson_planner_visit_close_wiz.py:0
+msgid "The close reason type haven't a function."
+msgstr "Тип причини закриття не має функції."
+
+#. module: crm_salesperson_planner
+#. odoo-python
+#: code:addons/crm_salesperson_planner/wizards/crm_salesperson_planner_visit_template_create.py:0
+msgid "The date can't be earlier than today"
+msgstr "Дата не може бути раніше сьогоднішньої"
+
+#. module: crm_salesperson_planner
+#. odoo-python
+#: code:addons/crm_salesperson_planner/models/crm_salesperson_planner_visit.py:0
+msgid "The visit must be in cancelled, incident or visited state"
+msgstr "Візит має бути у стані «скасовано», «інцидент» або «відвідано»"
+
+#. module: crm_salesperson_planner
+#. odoo-python
+#: code:addons/crm_salesperson_planner/models/crm_salesperson_planner_visit.py:0
+msgid "The visit must be in confirmed state"
+msgstr "Візит має бути в підтвердженому стані"
+
+#. module: crm_salesperson_planner
+#. odoo-python
+#: code:addons/crm_salesperson_planner/models/crm_salesperson_planner_visit.py:0
+msgid "The visit must be in draft or validated state"
+msgstr "Візит має бути в стані чернетки або підтверджений"
+
+#. module: crm_salesperson_planner
+#. odoo-python
+#: code:addons/crm_salesperson_planner/models/crm_salesperson_planner_visit.py:0
+msgid "The visit must be in draft state"
+msgstr "Візит має бути в стані чернетки"
+
+#. module: crm_salesperson_planner
+#. odoo-python
+#: code:addons/crm_salesperson_planner/models/crm_salesperson_planner_visit.py:0
+msgid "Visits must be in cancelled state"
+msgstr "Візити мають бути в скасованому стані"

@@ -177,7 +177,7 @@ msgstr "Завдання"
 #: code:addons/crm_lead_to_task/models/crm_lead.py:0
 #: code:addons/crm_lead_to_task/tests/test_crm_lead_task.py:0
 msgid "Tasks from crm lead %s"
-msgstr ""
+msgstr "Завдання з ліда CRM %s"
 
 #. module: crm_lead_to_task
 #: model_terms:ir.ui.view,arch_db:crm_lead_to_task.project_message_user_assigned

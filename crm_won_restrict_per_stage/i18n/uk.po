@@ -18,3 +18,9 @@ msgstr ""
 #: model:ir.model.fields,field_description:crm_won_restrict_per_stage.field_crm_stage__show_won_button
 msgid "Show Won Button"
 msgstr "Показувати кнопку «Виграно»"
+
+#. module: crm_won_restrict_per_stage
+#. odoo-python
+#: code:addons/crm_won_restrict_per_stage/models/crm_lead.py:0
+msgid "You can't change to this stage from the current stage."
+msgstr "Не можна перейти на цей етап із поточного."

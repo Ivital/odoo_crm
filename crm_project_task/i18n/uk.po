@@ -112,3 +112,22 @@ msgstr ""
 #: model:ir.model,name:crm_project_task.model_crm_create_task
 msgid "Wizard to create task"
 msgstr "Майстер створення завдання"
+
+#. module: crm_project_task
+#. odoo-python
+#: code:addons/crm_project_task/wizards/crm_create_task.py:0
+msgid ""
+"Project not configured in settings, please contact with your administrator."
+msgstr "Проєкт не налаштовано в параметрах, зверніться до адміністратора."
+
+#. module: crm_project_task
+#. odoo-python
+#: code:addons/crm_project_task/wizards/crm_create_task.py:0
+msgid "Task %s created."
+msgstr "Завдання %s створено."
+
+#. module: crm_project_task
+#. odoo-python
+#: code:addons/crm_project_task/wizards/crm_create_task.py:0
+msgid "Task created from lead/opportunity %s"
+msgstr "Завдання створено з ліда/можливості %s"

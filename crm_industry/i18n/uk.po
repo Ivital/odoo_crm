@@ -29,3 +29,9 @@ msgstr "Основна галузь"
 #: model:ir.model.fields,field_description:crm_industry.field_crm_lead__secondary_industry_ids
 msgid "Secondary Industries"
 msgstr "Вторинні галузі"
+
+#. module: crm_industry
+#. odoo-python
+#: code:addons/crm_industry/models/crm_lead.py:0
+msgid "The secondary industries must be different from the main industry."
+msgstr "Другорядні галузі мають відрізнятися від основної галузі."
